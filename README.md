@@ -15,7 +15,7 @@ Full-Stack Developer | Mobile & Web | Cybersecurity Enthusiast
 
 ## 📂 Featured Projects
 
-- **Mobile Proposal Approval System** – React Native, JWT  
+- **Mobile Proposal Approval System** – React Native, JWT
 - **Digital Threat Intelligence Platform** – React.js, Node.js, MongoDB  
 - **Logistics & Delivery Tracking System** – React.js, Node.js, MySQL
 
