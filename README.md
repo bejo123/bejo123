@@ -22,30 +22,14 @@
 
 ---
 
-### 🛠️ Tech Stack  
+### 🧠 Tech Stack & Tools  
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=00E676)
-![React](https://img.shields.io/badge/-React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Golang](https://img.shields.io/badge/-Go-0A0A0A?style=for-the-badge&logo=go&logoColor=00ADD8)
-![PHP](https://img.shields.io/badge/-PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/-MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
-![Docker](https://img.shields.io/badge/-Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/-Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-0A0A0A?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,go,php,python,mysql,mongodb,docker,linux,gcp&theme=dark" alt="skills icons" />
+<br><br>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" alt="coding animation" />
 
-</div>
-
----
-
-### 🧩 Animated Skills Preview  
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,go,python,mysql,mongodb,docker,linux,gcp&theme=dark" alt="skills icons" />
-  <br><br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding animation" />
 </div>
 
 ---
