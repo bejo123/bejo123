@@ -1,6 +1,15 @@
-<!-- Profile Header -->
+<!-- =======================
+🔥 ANIMATED BANNER
+======================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Vico+Tegar+Ramdhani+👋;Full-Stack+Developer+%7C+Cybersecurity+%7C+AI+Automation;Crafting+Clean+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<!-- =======================
+👋 INTRO ANIMATION
+======================= -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vico+Tegar+Ramdhani+👋;Full-Stack+Developer+%7C+Cybersecurity+%7C+AI+Automation;Crafting+Clean+%26+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 ---
@@ -76,8 +85,15 @@
 ---
 
 <div align="center">
-
+  
 > _"Build systems that work while you sleep."_  
 > — **Vico Tegar Ramdhani**
 
+</div>
+
+<!-- =======================
+🌌 FOOTER ANIMATED BANNER
+======================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:00E5FF&height=100&section=footer" />
 </div>
