@@ -45,7 +45,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,go,python,mysql,mongodb,docker,linux,gcp&theme=dark" alt="skills icons" />
   <br><br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding animation" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJidXR2bTN0Y3h5cno2dHpybzRiZnVndmd2NndhYWV4bXI4a2IzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)" width="480" alt="coding animation" />
 </div>
 
 ---
