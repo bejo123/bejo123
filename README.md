@@ -1,85 +1,83 @@
-<!-- Banner -->
+<!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vico+Tegar+Ramdhani+👋;Full-Stack+Developer+%7C+Mobile+%26+Web+Engineer;Cybersecurity+%7C+AI+%7C+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Vico+Tegar+Ramdhani+👋;Full-Stack+Developer+%7C+Cybersecurity+%7C+AI+Automation;Crafting+Clean+%26+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🧠 About Me  
-💻 Full-Stack Developer with 5+ years of experience in building scalable applications using **Node.js**, **React.js**, **PHP**, and **Golang**.  
-🚀 Passionate about **Cybersecurity**, **AI automation**, and **cloud infrastructure**.  
-🎯 I love creating systems that are fast, efficient, and intelligent.
+### 🧑‍💻 About Me  
+
+> I'm a **Full-Stack Developer** with over 5 years of experience in building scalable and intelligent systems.  
+> Passionate about **Cybersecurity**, **Automation**, and **AI-driven applications** that simplify human work.  
+> Currently focused on developing cloud-native backend systems and real-time web platforms.
 
 ---
 
-### 📫 Contact Me  
-📧 **Email:** [vicoramdhani@gmail.com](mailto:vicoramdhani@gmail.com)  
-📍 **Location:** Jakarta, Indonesia  
-🐙 **GitHub:** [bejo123](https://github.com/bejo123)
-
----
-
-### 🧰 Tech Stack  
+### 🛠️ Tech Stack  
 
 <div align="center">
-  
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![VSCode](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode)
+
+![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=00E676)
+![React](https://img.shields.io/badge/-React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Golang](https://img.shields.io/badge/-Go-0A0A0A?style=for-the-badge&logo=go&logoColor=00ADD8)
+![PHP](https://img.shields.io/badge/-PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/-MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
+![Docker](https://img.shields.io/badge/-Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/-Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-0A0A0A?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 
 </div>
 
 ---
 
-### 📂 Featured Projects
+### 🚀 Featured Projects  
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🚀 **Mobile Proposal Approval System** | End-to-end approval flow with JWT auth | React Native, Node.js |
-| 🧠 **Digital Threat Intelligence Platform** | Web-based security monitoring system | React.js, Node.js, MongoDB |
-| 📦 **Logistics & Delivery Tracking System** | Real-time order & driver tracking | React.js, Node.js, MySQL |
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🧾 **Mobile Proposal Approval System** | End-to-end mobile approval system with secure JWT auth | React Native · Node.js |
+| 🧠 **Digital Threat Intelligence Platform** | AI-based cybersecurity monitoring dashboard | React.js · Node.js · MongoDB |
+| 🚚 **Logistics & Delivery Tracking System** | Real-time tracking for delivery & fleet | React.js · Node.js · MySQL |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights  
 
 <div align="center">
 
-![Vico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bejo123&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bejo123&layout=compact&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=bejo123&show_icons=true&hide_border=true&theme=github_dark&count_private=true)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bejo123&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
-### 🏆 Achievements & Activity
+### 🧩 Activity  
 
 <div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=bejo123&theme=radical&hide_border=true)  
-![Profile Views](https://komarev.com/ghpvc/?username=bejo123&label=Profile+Views&color=0e75b6&style=flat)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bejo123&theme=github-dark&hide_border=true)  
+![Profile Views](https://komarev.com/ghpvc/?username=bejo123&color=gray&style=flat)
 
 </div>
 
 ---
 
-### 💬 Quote of the Day
-> "Build systems that work while you sleep." — *Vico Tegar Ramdhani*
+### 📫 Contact  
+
+<div align="center">
+
+📧 [vicoramdhani@gmail.com](mailto:vicoramdhani@gmail.com)  
+🌍 [github.com/bejo123](https://github.com/bejo123)  
+📍 Jakarta, Indonesia  
+
+</div>
 
 ---
 
 <div align="center">
-  
-⭐️ *Let's connect and create something awesome!* ⭐️  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vicoramdhani)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/bejo123)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicoramdhani@gmail.com)
+
+> _"Build systems that work while you sleep."_  
+> — **Vico Tegar Ramdhani**
 
 </div>
